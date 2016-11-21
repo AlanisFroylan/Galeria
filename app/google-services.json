@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849179033283",
+    "firebase_url": "https://galeria-c141c.firebaseio.com",
+    "project_id": "galeria-c141c",
+    "storage_bucket": "galeria-c141c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849179033283:android:4bfb586404c537e9",
+        "android_client_info": {
+          "package_name": "com.example.froylan.galeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849179033283-asvl0dv7asbvm8foetmmsev686lsuitd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLOgv6njr5RTgh5OyRkX2RyBlorHIETk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
